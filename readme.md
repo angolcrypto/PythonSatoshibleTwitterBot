@@ -11,7 +11,7 @@ Python, python, python, python.
 Nope. Everything is hard-coded. Sorry.
 
 # How often does this poll for sales?
-Every 5 minutes it polls for sales from the last 5 minutes.
+Every 5 minutes it polls for sales from the last 5 minutes. It will get a max of 30 sales. Anymore and it won't work but you can increase it if you want.
 
 # READ BEFORE USING
 You'll need a Twitter Developer Account so you can interact with Twitter's API. You'll also need to request an OpenSea API key so you don't get rate-limited.
